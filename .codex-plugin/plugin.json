@@ -1,6 +1,6 @@
 {
   "name": "ai-rap-studio",
-  "version": "0.2.0",
+  "version": "0.2.0+codex.20260724060152",
   "description": "A validated local workflow for rap ideas, structured briefings, SongFilmPlans, and Suno-compatible lyrics.",
   "author": {
     "name": "tschreiner"
