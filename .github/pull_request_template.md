@@ -10,7 +10,7 @@
 
 - [ ] `npm test`
 - [ ] `npm run validate`
-- [ ] `.\scripts\validate-plugin-v1.ps1`
+- [ ] `.\scripts\validate-plugin-v2.ps1`
 - [ ] `git diff --check`
 - [ ] Synthetic fixtures only; no private sources or live-inference logs
 - [ ] Existing prompt and script versions were not overwritten

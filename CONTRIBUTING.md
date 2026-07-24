@@ -14,7 +14,7 @@ AI Rap Studio is local-first and currently unlicensed. Discuss redistribution ri
    ```powershell
    npm test
    npm run validate
-   .\scripts\validate-plugin-v1.ps1
+   .\scripts\validate-plugin-v2.ps1
    git diff --check
    ```
 

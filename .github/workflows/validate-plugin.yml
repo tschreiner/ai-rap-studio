@@ -29,4 +29,4 @@ jobs:
           AI_RAP_STUDIO_SKIP_SOURCE_ATTACHMENT: "1"
       - name: Validate plugin
         shell: pwsh
-        run: .\scripts\validate-plugin-v1.ps1
+        run: .\scripts\validate-plugin-v2.ps1

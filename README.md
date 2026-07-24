@@ -150,7 +150,7 @@ Run all dependency-free tests:
 ```powershell
 npm test
 npm run validate
-.\scripts\validate-plugin-v1.ps1
+.\scripts\validate-plugin-v2.ps1
 git diff --check
 ```
 
