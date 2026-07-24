@@ -1,0 +1,11 @@
+* text=auto
+
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.ps1 text eol=crlf
+
+# Preserve the supplied prompt byte-for-byte, including its three source trailing spaces.
+assets/prompts/v1/lyrics.system.roastgpt.v1.md text eol=lf whitespace=-blank-at-eol

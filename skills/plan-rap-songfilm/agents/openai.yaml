@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Rap Songfilm"
+  short_description: "Build a strict briefing and SongFilmPlan"
+  default_prompt: "Use $plan-rap-songfilm to turn my selected idea into a validated briefing and SongFilmPlan without writing lyrics."

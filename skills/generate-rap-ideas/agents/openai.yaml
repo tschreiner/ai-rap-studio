@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Rap Ideas"
+  short_description: "Create random or source-grounded rap ideas"
+  default_prompt: "Use $generate-rap-ideas to generate three distinct rap song ideas without writing lyrics."

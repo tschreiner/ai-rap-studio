@@ -1,0 +1,30 @@
+{
+  "name": "ai-rap-studio",
+  "version": "0.2.0",
+  "description": "A validated local workflow for rap ideas, structured briefings, SongFilmPlans, and Suno-compatible lyrics.",
+  "author": {
+    "name": "tschreiner"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "rap",
+    "lyrics",
+    "songwriting",
+    "music",
+    "creative-writing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Rap Studio",
+    "shortDescription": "Develop rap concepts, hooks, lyrics, and revisions.",
+    "longDescription": "AI Rap Studio turns random or source-grounded ideas into strict briefings, validated SongFilmPlans, and Suno-compatible roast lyrics through agy and Gemini 3.1 Pro High.",
+    "developerName": "tschreiner",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "brandColor": "#8B5CF6",
+    "defaultPrompt": "Create three rap ideas, select one, build a validated SongFilmPlan, and render Suno-compatible lyrics."
+  }
+}

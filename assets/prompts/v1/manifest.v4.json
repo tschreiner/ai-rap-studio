@@ -1,0 +1,23 @@
+{
+  "version": "ai-rap-studio-prompts-v4",
+  "model": "gemini-3.1-pro-high",
+  "files": {
+    "briefing.system.v1.md": "b725b5030dac4faa1038ffbdfc734f20cb54d1feba74a32092f3ed080b392935",
+    "briefing.user.v1.md": "71a52a2371888b4363d6fd46dfd7d0e2be9e390fc2a79e9f04f36a44405d7087",
+    "idea.system.v1.md": "591874507c0c718b14db29a35a15136bed34e8c5f6626fc37937134a7860663b",
+    "idea.user.v1.md": "eddf227f54e97c4bee4dea28427e22c17fa5a6cdf301481f242002d42bcdce83",
+    "lyrics.system.roastgpt.v1.md": "16213a601ba9d9f06fea710fa8f28bfdc13cda3eb170d044a37a3e99bfe5a296",
+    "lyrics.user.v1.md": "cffeeddde1c9c031d8a741d1077312b0b47651a21499b19d2f5d9faef57eb353",
+    "lyrics.user.v2.md": "0c693269f71f05d486ecb942edcf4850ed68b68841bbaa5396fdff4f3fca8501",
+    "lyrics.user.v3.md": "453425714bfeef076c898223c5dfb2e5b1e462c03730f4de0a4993d8c7c7b3be",
+    "lyrics.user.v4.md": "de4d22cd39a7bd6d59fee802ec10ac509be903e84f2fd87c8c8598615e6384cb",
+    "songfilm.system.v1.md": "b0dc60a74d583712efd3b87bbc3f9e1c20d8fa1330a70cea5232cef575ef02d8",
+    "songfilm.user.v1.md": "aa0752b42e131fe4e98161b68e4fcba22187fb803587683c20182624462603fe"
+  },
+  "sources": {
+    "roastGptAttachment": "external user-provided attachment; not redistributed",
+    "roastGptAttachmentSha256": "6e6d7c0e7e154d6a58542e68c0808b5e3c21ee333091d2bff1a969f10ccdf6ed",
+    "roastGptNormalizedSha256": "4639d8dd31ad7eac1b0a46a98fabd64f23bd8e68d73507ef9640f0dd80a9d4d8",
+    "normalization": "UTF-8 text, CRLF converted to LF for equality, trailing line endings ignored"
+  }
+}

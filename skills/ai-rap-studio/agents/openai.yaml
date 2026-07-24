@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Rap Studio"
+  short_description: "Run the validated rap creation pipeline"
+  default_prompt: "Use $ai-rap-studio to create a rap song from ideas through a validated SongFilmPlan to Suno-ready lyrics."

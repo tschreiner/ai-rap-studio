@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Roast Lyrics"
+  short_description: "Render validated Songfilms as roast lyrics"
+  default_prompt: "Use $write-roast-lyrics to render my validated briefing and SongFilmPlan as Suno-compatible roast lyrics."

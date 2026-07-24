@@ -1,0 +1,14 @@
+{
+  "sections": [
+    { "name": "Intro", "lines": 2 },
+    { "name": "Verse 1", "lines": 16 },
+    { "name": "Chorus", "lines": 4 },
+    { "name": "Verse 2", "lines": 16 },
+    { "name": "Pre-Chorus", "lines": 4 },
+    { "name": "Chorus", "lines": 4 },
+    { "name": "Verse 3", "lines": 16 },
+    { "name": "Bridge", "lines": 4 },
+    { "name": "Chorus", "lines": 4 },
+    { "name": "Outro", "lines": 2 }
+  ]
+}

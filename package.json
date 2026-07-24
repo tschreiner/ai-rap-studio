@@ -1,0 +1,16 @@
+{
+  "name": "ai-rap-studio",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Deterministic local orchestration for the AI Rap Studio Codex plugin.",
+  "type": "module",
+  "scripts": {
+    "check": "node --check scripts/ai-rap-studio-v1.mjs && node --test test/*.test.mjs",
+    "test": "node --test test/*.test.mjs",
+    "validate": "node scripts/validate-runtime-v1.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED"
+}

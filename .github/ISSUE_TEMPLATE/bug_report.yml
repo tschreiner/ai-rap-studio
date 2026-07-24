@@ -1,0 +1,35 @@
+name: Bug report
+description: Report a reproducible contract, runtime, or plugin problem
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: "Use synthetic data only. Do not paste credentials, personal source material, generated private lyrics, or provider logs."
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Observed behavior
+      description: Describe the failure and the stage where it occurred.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Synthetic reproduction
+      description: Provide minimal commands and synthetic fixture data.
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Versions
+      description: Node, agy, plugin, operating system, and model listing.
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Validation output
+      description: Include only sanitized test or validation summaries.
